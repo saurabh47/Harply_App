@@ -1,6 +1,7 @@
 # harplyn
 
-A new Flutter project.
+Automation app for Harplyn Irrigation
+
 
 ## Getting Started
 
